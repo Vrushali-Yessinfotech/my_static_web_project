@@ -1,0 +1,11 @@
+body{
+   background-color: rgb(251, 248, 248);
+   text-align: center;
+}
+main{
+    background-color: white;
+    text-align: center;
+    margin-left: 400px;
+    width: 500px;
+    padding: 20px;
+}
